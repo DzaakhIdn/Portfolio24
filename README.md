@@ -59,7 +59,7 @@ portfolio-website/
 
 ## 🖥️ Live Demo
 
-🌟 **Check out the live version here:** [My Portfolio Website](https://yourwebsite.com)
+🌟 **Check out the live version here:** [My Portfolio Website](https://dzaakhidn.github.io/Portfolio24/#0)
 
 ---
 
@@ -69,7 +69,7 @@ Feel free to reach out to me for collaboration or queries:
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 - **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [yourusername](https://github.com/DzaakhIdn)
 
 ---
 
@@ -95,4 +95,4 @@ Stay connected and explore more:
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=firefox&logoColor=white)](https://dzaakhidn.github.io/Portfolio24/#0)
