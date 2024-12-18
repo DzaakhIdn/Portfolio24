@@ -1,4 +1,4 @@
-# 🌟 Welcome to My Stunning Portfolio Website
+# 🌟 Welcome to My Portfolio Website
 
 Discover the perfect blend of design, interactivity, and functionality! This portfolio website is a showcase of my creative work, technical skills, and professional journey, meticulously crafted using **HTML**, **CSS**, and **JavaScript**.
 
@@ -71,7 +71,7 @@ portfolio-website/
 
 ## 🌍 Explore the Live Version
 
-**See it in action:** [Live Demo](https://yourwebsite.com)
+**See it in action:** [Live Demo](https://dzaakhidn.github.io/Portfolio24/#0)
 
 ---
 
@@ -124,9 +124,9 @@ A huge thanks to the following resources:
 
 ### 🌈 Let's Stay Connected
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/DzaakhIdn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdurrahmanDzaki)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=firefox&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=firefox&logoColor=white)](https://dzaakhidn.github.io/Portfolio24/#0)
 
 Feel free to explore, contribute, and share!
